@@ -3,5 +3,5 @@ import React from 'react'
 
 export default props =>
     <header className="header">
-        Cabeçalhos
+        Cabeçalho
     </header>

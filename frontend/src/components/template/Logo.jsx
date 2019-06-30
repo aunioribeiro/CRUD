@@ -1,4 +1,4 @@
-import './Logo.xss'
+import './Logo.jsx'
 import React from 'react'
 
 export default props =>
