@@ -1,11 +1,19 @@
 {
-    "user":[{
-        "id": 1,
-        "name": "Aunio Ribeiro",
-        "email": "aunioribeiro@gmail.com"
-    }, {
-        "id": 2,
-        "name": "John Doe",
-        "email": "johndoe@example.com"
-    }]
+  "user": [
+    {
+      "id": 1,
+      "name": "Aunio Ribeiro",
+      "email": "aunioribeiro@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "John Doe",
+      "email": "johndoe@example.com"
+    },
+    {
+      "name": "Bill Gates",
+      "email": "billgates@example.com",
+      "id": 3
+    }
+  ]
 }
